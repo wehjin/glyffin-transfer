@@ -16,7 +16,7 @@ All examples below assume a root element wraps the example.
 	
 ### text
 
-	<text0 color="blue" text="Hello"/>
+	<tile color="blue" text="Hello"/>
 	
 ## modification
 
